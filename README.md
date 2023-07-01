@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lucas.rbruzzone@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/lucas-bruzzone/Curriculum_LateX/blob/main/lucas-bruzzone-cv.pdf](https://github.com/lucas-bruzzone/Curriculum_LateX/blob/main/lucas-bruzzone-cv.pdf)
+- 📄 Know about my experiences [https://github.com/lucas-bruzzone/Curriculum_LateX/blob/main/Libre_CV_English.pdf](https://github.com/lucas-bruzzone/Curriculum_LateX/blob/main/Libre_CV_English.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
