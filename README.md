@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Ricardo Duarte Bruzzone</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
 
-- 🔭 I’m currently working on [EIFuzzCND](https://github.com/lucas-bruzzone/EIFuzzCND)
+- 🔭 I’m currently working on [UNSW-NB15 || Novelty Detection]([https://github.com/lucas-bruzzone/EIFuzzCND](https://github.com/lucas-bruzzone/UNSW-NB15-Article))
 
 - 🌱 I’m currently learning **Machine Learning and PLN**
 
