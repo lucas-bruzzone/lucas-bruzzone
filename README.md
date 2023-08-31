@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Ricardo Duarte Bruzzone</h1>
 
-- 🔭 I’m currently working on [Customer-Sgmentation]([https://github.com/lucas-bruzzone/UNSW-NB15-Article](https://github.com/lucas-bruzzone/Customer-Segmentation))
+- 🔭 I’m currently working on [Customer-Segmentation]([https://github.com/lucas-bruzzone/UNSW-NB15-Article](https://github.com/lucas-bruzzone/Customer-Segmentation))
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucas-bruzzone](https://github.com/lucas-bruzzone)
 
