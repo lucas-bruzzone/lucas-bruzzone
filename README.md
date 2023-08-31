@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas Ricardo Duarte Bruzzone</h1>
-<h3 align="center">A passionate data scientist from Brazil</h3>
 
-- 🔭 I’m currently working on [UNSW-NB15 || Novelty Detection](https://github.com/lucas-bruzzone/UNSW-NB15-Article)
-
-- 🌱 I’m currently learning **Machine Learning and PLN**
+- 🔭 I’m currently working on [Customer-Sgmentation]([https://github.com/lucas-bruzzone/UNSW-NB15-Article](https://github.com/lucas-bruzzone/Customer-Segmentation))
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucas-bruzzone](https://github.com/lucas-bruzzone)
-
-- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **lucas.rbruzzone@gmail.com**
 
