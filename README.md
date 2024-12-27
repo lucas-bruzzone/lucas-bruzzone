@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Ricardo Duarte Bruzzone</h1>
 
-- 🔭 I’m currently working on [Customer-Segmentation](https://github.com/lucas-bruzzone/Customer-Segmentation)
-
-- 👨‍💻 All of my projects are available at [https://github.com/lucas-bruzzone](https://github.com/lucas-bruzzone)
-
-- 📫 How to reach me **lucas.rbruzzone@gmail.com**
-
-- 📄 Know about my experiences [English](https://github.com/lucas-bruzzone/Curriculum_LateX/blob/main/Libre_CV_English.pdf)
-                               [Portuguese](https://github.com/lucas-bruzzone/Curriculum_LateX/blob/main/lucas-bruzzone-cv.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas-bruzzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-bruzzone" height="30" width="40" /></a>
