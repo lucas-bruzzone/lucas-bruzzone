@@ -2,9 +2,6 @@
 
 <h3 align="center">Cientista de Dados | 2x AWS Certified | Mestre em Machine Learning | Professor Universitário</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucas-bruzzone&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="lucas-bruzzone" />
-</p>
 
 ## 🚀 Sobre Mim
 
