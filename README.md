@@ -30,9 +30,6 @@
 
 ## 📈 Estatísticas GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas-bruzzone&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-bruzzone&layout=compact&theme=radical&hide_border=true&langs_count=8&include_all_commits=true" alt="Top Languages" />
 </div>
 
