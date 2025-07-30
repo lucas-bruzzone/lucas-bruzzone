@@ -1,27 +1,26 @@
-<h1 align="center">Olá 👋, eu sou Lucas Ricardo Duarte Bruzzone</h1>
+# 👋 Olá, eu sou Lucas Ricardo Duarte Bruzzone
 
-<h3 align="center">Cloud Solutions Architect | Data Scientist | 2x AWS Certified | Professor Universitário</h3>
+**Cloud Solutions Architect | Data Scientist | AWS Certified | Professor Universitário**
 
 ## 🚀 Sobre Mim
 
-- ☁️ **Cloud Solutions Architect** - Especialista em arquiteturas serverless e infraestrutura como código
-- 📊 **Data Analyst** na E-ctare, focado em pipelines de dados e soluções cloud-native
-- 🎓 **Professor** de Engenharia de Software e Microsserviços na Libertas Faculdades Integradas
-- 🎯 **Mestre** em Ciências da Computação (UFSCar) com especialização em ML e NLP
-- 🏗️ Arquiteto de soluções AWS end-to-end com foco em escalabilidade e governança
+- ☁️ **Data Analyst** na E-ctare, trabalhando com pipelines de dados e soluções cloud-native
+- 🎓 **Professor** de Sistemas da Informação na Libertas Faculdades Integradas  
+- 🎯 **Mestre** em Ciências da Computação (UFSCar) com foco em ML e NLP
+- 🏗️ Desenvolvendo soluções AWS com arquitetura serverless e infraestrutura como código
 
 ## 🛠️ Stack Tecnológico
 
 **Cloud Architecture & DevOps:**
 - ☁️ **AWS**: Lambda, API Gateway, DynamoDB, S3, CloudFront, Cognito, EventBridge
-- 🏗️ **Infrastructure as Code**: Terraform, CloudFormation
-- 🔄 **CI/CD**: GitHub Actions, AWS CodePipeline
+- 🏗️ **Infrastructure as Code**: Terraform
+- 🔄 **CI/CD**: GitHub Actions
 - 🐳 **Containerization**: Docker, AWS ECS/Fargate
-- 📊 **Monitoring**: CloudWatch, X-Ray, AWS Config
+- 📊 **Monitoring**: CloudWatch, X-Ray
 
 **Data Engineering & Analytics:**
 - 🐍 **Languages**: Python, SQL, JavaScript
-- 📊 **Analytics**: Metabase, QuickSight, Business Intelligence
+- 📊 **Analytics**: Metabase, Business Intelligence
 - 🔄 **ETL/ELT**: AWS Glue, Lambda, Step Functions
 - 🤖 **Machine Learning**: SageMaker, AWS AI Services
 - 📈 **Data Lakes**: S3, Athena, Redshift Spectrum
@@ -30,32 +29,7 @@
 - 🚀 **Serverless**: AWS Lambda, API Gateway, WebSocket APIs
 - 🗄️ **Databases**: DynamoDB, RDS, DocumentDB
 - 🔐 **Security**: AWS IAM, Cognito, Secrets Manager
-- 📱 **APIs**: REST, GraphQL, WebSocket, Event-driven architecture
-
-## 🏗️ Principais Competências em Cloud
-
-**Arquitetura de Soluções:**
-- Design de arquiteturas serverless e event-driven
-- Implementação de pipelines CI/CD robustos
-- Otimização de custos e performance em AWS
-- Patterns de microserviços e microsserviços
-
-**Governança e Segurança:**
-- IAM policies e roles com least privilege
-- Implementação de compliance e auditoria
-- Backup e disaster recovery strategies
-- Multi-account AWS Organizations setup
-
-**Automação e DevOps:**
-- Infrastructure as Code (Terraform)
-- Deployment strategies (blue-green, canary)
-- Monitoring e observabilidade
-- Auto-scaling e high availability
-
-## 📈 Estatísticas GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-bruzzone&layout=compact&theme=radical&hide_border=true&langs_count=8&include_all_commits=true" alt="Top Languages" />
-</div>
+- 📱 **APIs**: REST, WebSocket, Event-driven architecture
 
 ## 🎓 Certificações & Educação
 
@@ -67,7 +41,8 @@
 
 ## 🔥 Projetos em Destaque
 
-### 🌾 **Sistema Rural** - Plataforma de Mapeamento Geoespacial
+### 🌾 **[Sistema Rural](https://github.com/lucas-bruzzone/sistema-rural-demo)** - Plataforma de Mapeamento Geoespacial
+- **Demo Live**: [https://d3qvtcwpimdv16.cloudfront.net/](https://d3qvtcwpimdv16.cloudfront.net/)
 - **Stack**: AWS Lambda, DynamoDB, API Gateway, S3, CloudFront, Cognito
 - **Features**: Mapeamento interativo, análise geoespacial, relatórios PDF, WebSocket real-time
 - **Arquitetura**: 10 módulos serverless com Terraform, CI/CD via GitHub Actions
@@ -79,31 +54,47 @@
 - Security best practices e compliance
 - Modular architecture com reusabilidade
 
+### ⚡ **[AWS Lambda Template](https://github.com/lucas-bruzzone/example-aws-lambda-template)**
+- Template base para funções Lambda com estrutura organizada
+- Deploy automatizado e boas práticas
+- Logging e monitoring configurados
+- Suporte a múltiplos ambientes
+
+### 🤖 **[AWS Automation](https://github.com/lucas-bruzzone/example-aws-automation)**
+- Automação para criação de repositórios base a partir de templates
+- Padronização de projetos e configurações
+- Integração com GitHub Actions
+- Facilita setup inicial de novos projetos
+
 ### 🔄 **Pipelines de Dados Cloud-Native**
 - ETL/ELT serverless com AWS Glue e Lambda
-- Real-time processing com Kinesis e EventBridge
 - Data Lakes em S3 com catalogação automática
-- Analytics com Athena e QuickSight
+- Analytics com Athena
 
-### 🤖 **Automação e DevOps**
-- GitHub Actions para deploy multi-stage
-- Infrastructure drift detection
-- Automated security scanning
-- Cost optimization workflows
+## 📈 Estatísticas GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-bruzzone&layout=compact&theme=radical&hide_border=true&langs_count=8&include_all_commits=true" alt="Top Languages" />
+</div>
 
-## 🎯 Especialidades
+## 🎯 Áreas de Interesse
 
-**Soluções End-to-End:**
-- Desde prototipagem até produção em escala
-- Integration patterns e event-driven architectures
-- Performance tuning e cost optimization
+**Soluções Cloud:**
+- Arquiteturas serverless e event-driven
+- Pipelines CI/CD e automação
+- Otimização de custos e performance
 - Security by design e compliance
 
-**Mentoria e Educação:**
-- Treinamento em tecnologias AWS e cloud
-- Code reviews e architectural guidance
-- Workshops de boas práticas DevOps
+**Data Engineering:**
+- Pipelines de dados modernos
+- Real-time analytics
+- Machine Learning pipelines
+- Data governance
+
+**Educação:**
+- Treinamento em tecnologias AWS
 - Desenvolvimento de equipes técnicas
+- Workshops de boas práticas
+- Mentoria em projetos cloud
 
 ## 🌐 Conecte-se Comigo
 
@@ -122,5 +113,5 @@
 ---
 
 <p align="center">
-  <i>🚀 Transformando ideias em soluções cloud escaláveis e data-driven</i>
+  <i>🚀 Desenvolvendo soluções cloud e compartilhando conhecimento</i>
 </p>
